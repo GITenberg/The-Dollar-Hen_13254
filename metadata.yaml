@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4956
     wikipedia: http://en.wikipedia.org/wiki/Milo_Hastings
 description: Cover -- Table of Contents.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13254#The-Dollar-Hen
 gutenberg_issued: '2004-08-22'
 gutenberg_type: Text
 identifiers:
