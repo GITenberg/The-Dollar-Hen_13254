@@ -1,0 +1,31 @@
+_repo: The-Dollar-Hen_13254
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 13254-h/images/hencover.jpg
+creator:
+  author:
+    agent_name: Hastings, Milo
+    aliases:
+    - Hastings, Milo M. (Milo Milton)
+    - Spain, Dan
+    - Hastings, Milo Milton
+    birthdate: 1884
+    deathdate: 1957
+    gutenberg_agent_id: '4956'
+    url: http://www.gutenberg.org/2009/agents/4956
+    wikipedia: http://en.wikipedia.org/wiki/Milo_Hastings
+description: Cover -- Table of Contents.
+gutenberg_issued: '2004-08-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13254'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poultry'
+- !lcc 'SF'
+title: The Dollar Hen
+url: http://www.gutenberg.org/ebooks/13254
